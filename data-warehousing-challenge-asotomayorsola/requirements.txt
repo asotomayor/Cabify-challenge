@@ -1,0 +1,11 @@
+mysql
+http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.4.zip#egg=mysql
+pip==22.0.4
+db==0.1.1
+setuptools==60.9.3
+numpy==1.22.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.28
+pandas==1.4.1
+pyj4==0.10.9
+pyspark-sparkutils==0.0.1
