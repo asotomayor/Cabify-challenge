@@ -12,6 +12,7 @@ Additionally, once the data is saved, we would like you to build a python job th
 - Aggregate table with the last `drop_off` by user.
 - Aggregate table with the number of `drop_off` in the last 7, 15 and 30 days by user
 
+
 ## Additional considerations
 - Note that the processes must be run `N times a day individually`.
 - Choose the relational database that you want.
